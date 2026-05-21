@@ -28,6 +28,10 @@
         </dependency>
         <dependency>
             <groupId>com.sdlc.pro</groupId>
+            <artifactId>spring-lens-insight</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.sdlc.pro</groupId>
             <artifactId>spring-lens-storage</artifactId>
         </dependency>
         <dependency>
