@@ -46,6 +46,7 @@
 
     <modules>
         <module>spring-lens-core</module>
+        <module>spring-lens-insight</module>
         <module>spring-lens-storage</module>
         <module>spring-lens-web</module>
         <module>spring-lens-autoconfigure</module>
@@ -58,6 +59,11 @@
             <dependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>spring-lens-core</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>spring-lens-insight</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>

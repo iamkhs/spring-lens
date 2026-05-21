@@ -27,6 +27,10 @@
             <artifactId>spring-lens-core</artifactId>
         </dependency>
         <dependency>
+            <groupId>com.sdlc.pro</groupId>
+            <artifactId>spring-lens-insight</artifactId>
+        </dependency>
+        <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
         </dependency>
