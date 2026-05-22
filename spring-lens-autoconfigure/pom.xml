@@ -37,11 +37,13 @@
         <dependency>
             <groupId>com.sdlc.pro</groupId>
             <artifactId>spring-lens-storage</artifactId>
+            <scope>provided</scope>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>com.sdlc.pro</groupId>
             <artifactId>spring-lens-exposure-http</artifactId>
+            <scope>provided</scope>
             <optional>true</optional>
         </dependency>
         <dependency>
